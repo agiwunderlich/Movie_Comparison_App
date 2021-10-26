@@ -1,5 +1,4 @@
-# Movie_Comparison_App
-Movie Fight App
+# Movie Fight App with reuseable autocomplete.js
 
 Movie comparison application based on awards, imdb ratings, boxoffice etc., with a reuseable autocomplete search function and widget. 
 Fetching data with axios from <a href="http://www.omdbapi.com/"><strong>OMDB API</strong></a> with a fetching delay assist function "debounce".
